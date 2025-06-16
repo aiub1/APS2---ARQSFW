@@ -1,4 +1,4 @@
-# 📚 API RESTful - Sistema de Postagens
+# API RESTful - Sistema de Postagens
 
 Esta é uma API construída com **Node.js**, **Express** e **MongoDB** para gerenciamento de usuários, autores e postagens. A API segue o padrão **MVC** e utiliza **JWT** para autenticação, **Swagger** para documentação e **DTOs** para segurança na troca de dados.
 
@@ -73,7 +73,7 @@ A API estará disponível em: `http://localhost:3000`
 
 ---
 
-## 🔐 Autenticação
+## Autenticação
 
 Use a rota:
 
